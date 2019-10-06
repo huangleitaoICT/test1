@@ -1,1 +1,1 @@
-# test1tfc
+这个任务是mnist训练集
